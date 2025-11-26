@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Subtraction Simulation",
+  "description": "An educational web application that helps visualize and understand subtraction concepts, from basic counting to multi-digit regrouping, through five interactive levels.",
+  "requestFramePermissions": []
+}
